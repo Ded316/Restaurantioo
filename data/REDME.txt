@@ -1,0 +1,2 @@
+Los archivos definidos en data serian los modelos de datos usados para los mozos y los platos, que por default deberian de estar cargados en la aplicacion Restaurantio
+podemos tenerla en cuenta a la hora de generar la DB, podria hacer que se auto generen pero quiero que lo hagan ustedes asi entienden como es la onda. :D

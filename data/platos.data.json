@@ -1,0 +1,36 @@
+[{
+        "nombre": "Mostacholi",
+        "descripcion": "Ricos fideos",
+        "precio": 12.00
+    },
+    {
+        "nombre": "Churrasco a Caballo",
+        "descripcion": "Biffe con huevo frito y papitas",
+        "precio": 120.00
+    },
+    {
+        "nombre": "Muzza Especial",
+        "descripcion": "Pedazo de masa con mucho queso",
+        "precio": 45.50
+    },
+    {
+        "nombre": "Arroz con Posho",
+        "descripcion": "Arroz oriental con finos colorantes y agregados enlatados",
+        "precio": 30.00
+    },
+    {
+        "nombre": "Lomito",
+        "descripcion": "Pan, carne y mucho mas... ya tu sabes",
+        "precio": 250.00
+    },
+    {
+        "nombre": "Empanadas de Cebolla y Queso",
+        "descripcion": "Empanadas con pedazos de cebolla y leche procesada",
+        "precio": 23.30
+    },
+    {
+        "nombre": "Sopita",
+        "descripcion": "Agua con verduras",
+        "precio": 500.00
+    },
+]

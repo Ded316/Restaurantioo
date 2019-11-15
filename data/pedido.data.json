@@ -1,0 +1,19 @@
+{
+    "Pedidos": [{
+        "_id": "aijsndiasdjashbdajkhsbd",
+        "mesa": 15,
+        "estado_preparacion": "finalizado",
+        "estado_aprobacion": true,
+        "fecha_emision": "2019-10-12 , 13:30:15",
+        "id_emision": "akjsdnaksjndakjnd",
+        "es_mozo": true,
+        "platos": [{
+                "id_plato": "nkajsndkajsndkajsndkajsnd",
+            },
+            {
+                "id_plato": "fjdfsdhffsjdhbsfjdhfbsjdhf"
+            }
+        ]
+
+    }]
+}
